@@ -1,4 +1,4 @@
-const CONFIG = -_-
+const CONFIG = ...
     titleWeb: "hakctintac.com",
     introTitle: 'quịt',
     introDesc: `Trái đất vốn lạ thường
